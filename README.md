@@ -1,6 +1,6 @@
 # MCP-STUDY
 
-This project is a simple MCP (Mission Critical Platform) server that uses Ollama to analyze log files for problems.
+This project is a simple MCP (Model Context Protocol) server that uses Ollama to analyze log files for problems.
 
 ## How to run
 

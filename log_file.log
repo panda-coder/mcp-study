@@ -1,0 +1,6 @@
+INFO:2025-09-01 10:00:00: Server started successfully.
+DEBUG:2025-09-01 10:00:05: User 'admin' logged in.
+INFO:2025-09-01 10:01:10: Processing request #123.
+ERROR:2025-09-01 10:01:15: Database connection failed: timed out.
+WARNING:2025-09-01 10:02:00: Low disk space on /dev/sda1.
+INFO:2025-09-01 10:02:30: Request #123 completed.
